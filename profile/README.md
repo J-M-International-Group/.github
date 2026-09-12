@@ -8,6 +8,8 @@
 
 <p align="center"><strong>Operate in Their Blind Spot</strong></p>
 
+<p align="center">Detection without exfiltration. AI runtime security and mobile threat defense that runs on your own infrastructure.</p>
+
 <p align="center">
   <a href="https://www.tenebraesecurity.com">Website</a> ·
   <a href="https://www.tenebraesecurity.com/pricing">Pricing</a> ·
