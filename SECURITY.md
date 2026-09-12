@@ -6,7 +6,7 @@ J & M International Group LLC (d/b/a Tenebrae Security) takes the security of it
 
 Please **do not** open a public issue for a security problem.
 
-Email **hello@tenebraesecurity.com** with the subject line `Security report`. Include:
+Email **contact@tenebraesecurity.com** with the subject line `Security report`. Include:
 
 - The product, version and platform affected
 - Steps to reproduce, or a proof of concept

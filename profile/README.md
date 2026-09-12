@@ -46,7 +46,7 @@ Product source code lives in private repositories in this organization. Open-sou
 
 ## Contact
 
-- General: [hello@tenebraesecurity.com](mailto:hello@tenebraesecurity.com)
+- General: [contact@tenebraesecurity.com](mailto:contact@tenebraesecurity.com)
 - Sales and demos: [tenebraesecurity.com/demo](https://www.tenebraesecurity.com/demo)
 - Partners and MSPs: [tenebraesecurity.com/partners](https://www.tenebraesecurity.com/partners)
 - Support: [tenebraesecurity.com/support](https://www.tenebraesecurity.com/support)
